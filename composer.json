@@ -9,6 +9,11 @@
             "email": "rockstone001@163.com"
         }
     ],
+    "autoload": {
+        "psr-4":{
+            "mycomposer\\": "src"
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
