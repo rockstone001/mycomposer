@@ -1,0 +1,14 @@
+{
+    "name": "zlq/mycomposer",
+    "description": "just test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "热心村民-庄先生",
+            "email": "rockstone001@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
