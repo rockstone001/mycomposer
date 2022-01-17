@@ -2,10 +2,13 @@
 
 - composer require mycomposer
 
-- require_once './vendor/autoload.php';
+```
+<?php
 
-- use zlq\mycomposer\Test;
+require_once './vendor/autoload.php';
 
-- $t = new Test();
+use zlq\mycomposer\Test;
 
-- $t->show(); // hello world, this. is my composer package \n
+$t = new Test();
+$t->show(); // hello world, this. is my composer package \n
+```
